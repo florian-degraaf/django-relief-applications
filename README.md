@@ -3,6 +3,7 @@
 Backend: Python 3, Django, Django REST Framework
 Frontend: Node.js, Angular CLI
 
+# Runnning the project
 in relief-applications/backend:
 python manage.py migrate
 python manage.py runserver
